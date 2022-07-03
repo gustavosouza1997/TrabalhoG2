@@ -1,5 +1,5 @@
 const { read_files_from_folder } = require('./files.js');
-const { get_urls, upload_to_container, download_and_convert_file } = require('./azure.js');
+const { get_urls, upload_to_container, download_file, convert_file } = require('./azure.js');
 const path_to_upload = "./files_to_upload/";
 const path_to_convert = "./files_to_convert/";
 const path_json = "./jsons_to_upload/";
@@ -11,29 +11,26 @@ const queueXML = "xml-received";
 const queueJSON = "json-received";
 
 async function main() {
-    /*const data_to_upload = await read_files_from_folder(path_to_upload);
+    /*const data_to_upload = read_files_from_folder(path_to_upload);
 
-    const xml_to_upload = await data_to_upload.map(async (file) => {
+    for (const file of data_to_upload) {
         await upload_to_container(connectionStringXML, containerxml, `${path_to_upload}${file}`);
-    });
+    };*/
 
-    setTimeout(function() {
-        console.log("Upload of XML's Completed, awaiting Azure Queue update...");
-    }, 1000);*/
+    console.log("Upload of XML's Completed, awaiting Azure Queue update...");
 
     const received_queueXML = await get_urls(connectionStringXML, queueXML);
 
-    await download_and_convert_file(received_queueXML, path_to_convert);
+    await download_file(received_queueXML, path_to_convert);
+    await convert_file(path_to_convert);
 
-    const json_to_upload = await read_files_from_folder(path_json);
+    const json_to_upload = read_files_from_folder(path_json);
 
-    const json_files_to_upload = await json_to_upload.map(async (file) => {
+    for (const file of json_to_upload) {
         await upload_to_container(connectionStringJSON ,containerjson, `${path_json}${file}`);
-    });
+    };    
 
-    setTimeout(function() {
-        console.log("Upload of JSON's Completed, awaiting Azure Queue update...");
-    }, 1000);
+    console.log("Upload of JSON's Completed, awaiting Azure Queue update...");
 
     const received_queueJSON = await get_urls(connectionStringJSON, queueJSON);
     console.log(received_queueJSON);

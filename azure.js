@@ -45,8 +45,7 @@ async function get_urls(connectionString, queueName) {
     return messages_url;
 };
 
-async function download_and_convert_file(queue, path) {
-    //queue.forEach((file) => {
+async function download_file(queue, path) {
     for (const file of queue) {
         const download = new DownloaderHelper(file.urls, path);
 
@@ -56,14 +55,11 @@ async function download_and_convert_file(queue, path) {
         });
         download.start();
     };
-
-    await convert_file(path);
 };
 
 async function convert_file(path) {
-    const queue_to_convert = await read_files_from_folder(path);
+    const queue_to_convert = read_files_from_folder(path);
 
-    //queue_to_convert.forEach((file) => {
     for (const file of queue_to_convert) {
         const file_path = `${path}${file}`;
         const file_name = path_.basename(file_path);
@@ -76,7 +72,10 @@ async function convert_file(path) {
         const json = parser.toJson(decoded_file);
         const json_name = `${json_path}${file_name.replace('.xml', '.json')}`;
 
-        fs.writeFileSync(json_name, json);
+        fs.writeFile(json_name, json, function(err) {
+            if (err) throw err;
+            console.log(`Converted: ${file_name}`);
+        });
 
         fs.unlink(file_path, err => {
             if (err) throw err;
@@ -85,4 +84,4 @@ async function convert_file(path) {
     };
 };
 
-module.exports = { get_urls, upload_to_container, download_and_convert_file };
+module.exports = { get_urls, upload_to_container, download_file, convert_file };
