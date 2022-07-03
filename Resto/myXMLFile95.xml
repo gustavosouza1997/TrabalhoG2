@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Roseline"
+  lastname="Anderea"
+  city="Cairns"
+  country="Lithuania"
+  firstname2="Molli"
+  lastname2="Geffner"
+  email="Molli.Geffner@yopmail.com"
+  />
+  <random>64</random>
+  <random_float>67.718</random_float>
+  <bool>false</bool>
+  <date>1997-09-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Valeda</elt><elt>Mary</elt><elt>Wanda</elt><elt>Deane</elt><elt>Ginnie</elt>  
+  <Molli>
+    <age>37</age>
+  </Molli>
+</root>

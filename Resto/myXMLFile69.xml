@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Pearline"
+  lastname="Hertzfeld"
+  city="St. George's"
+  country="Cameroon"
+  firstname2="Cathyleen"
+  lastname2="Hutchison"
+  email="Cathyleen.Hutchison@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>78.92</random_float>
+  <bool>false</bool>
+  <date>1999-10-20</date>
+  <regEx>helloooo world</regEx>
+  <enum>generator</enum>
+  <elt>Sidoney</elt><elt>Cyb</elt><elt>Donnie</elt><elt>Netty</elt><elt>Gabi</elt>  
+  <Cathyleen>
+    <age>30</age>
+  </Cathyleen>
+</root>

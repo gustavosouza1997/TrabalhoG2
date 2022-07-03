@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kirbee"
+  lastname="Posner"
+  city="Kobe"
+  country="Georgia"
+  firstname2="Maryellen"
+  lastname2="Noman"
+  email="Maryellen.Noman@yopmail.com"
+  />
+  <random>3</random>
+  <random_float>35.002</random_float>
+  <bool>false</bool>
+  <date>1981-11-30</date>
+  <regEx>hellooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Rosene</elt><elt>Christian</elt><elt>Dacia</elt><elt>Gale</elt><elt>Priscilla</elt>  
+  <Maryellen>
+    <age>85</age>
+  </Maryellen>
+</root>

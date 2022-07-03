@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tori"
+  lastname="Stefa"
+  city="Podgorica"
+  country="Netherlands"
+  firstname2="Katharina"
+  lastname2="Terencio"
+  email="Katharina.Terencio@yopmail.com"
+  />
+  <random>73</random>
+  <random_float>13.425</random_float>
+  <bool>false</bool>
+  <date>1981-01-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Nadine</elt><elt>Nadine</elt><elt>Veda</elt><elt>Aigneis</elt><elt>Lucille</elt>  
+  <Katharina>
+    <age>72</age>
+  </Katharina>
+</root>

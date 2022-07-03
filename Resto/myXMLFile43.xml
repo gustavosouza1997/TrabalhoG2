@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Catharine"
+  lastname="Regan"
+  city="Ambon"
+  country="RWANDA"
+  firstname2="Robinia"
+  lastname2="Edvard"
+  email="Robinia.Edvard@yopmail.com"
+  />
+  <random>18</random>
+  <random_float>58.071</random_float>
+  <bool>false</bool>
+  <date>1994-09-05</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Gwyneth</elt><elt>Betta</elt><elt>Mariele</elt><elt>Dione</elt><elt>Lanna</elt>  
+  <Robinia>
+    <age>48</age>
+  </Robinia>
+</root>

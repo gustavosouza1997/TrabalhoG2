@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tabbatha"
+  lastname="Vivle"
+  city="Harbin"
+  country="Guernsey"
+  firstname2="Pierette"
+  lastname2="Craggie"
+  email="Pierette.Craggie@yopmail.com"
+  />
+  <random>97</random>
+  <random_float>1.036</random_float>
+  <bool>false</bool>
+  <date>1994-04-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Genevra</elt><elt>Briney</elt><elt>Kary</elt><elt>Aigneis</elt><elt>Berget</elt>  
+  <Pierette>
+    <age>24</age>
+  </Pierette>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dominga"
+  lastname="Ciapas"
+  city="Hamilton"
+  country="Paraguay"
+  firstname2="Gilligan"
+  lastname2="Jerald"
+  email="Gilligan.Jerald@yopmail.com"
+  />
+  <random>11</random>
+  <random_float>15.002</random_float>
+  <bool>true</bool>
+  <date>1994-01-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Siana</elt><elt>Myriam</elt><elt>Talya</elt><elt>Joane</elt><elt>Janeczka</elt>  
+  <Gilligan>
+    <age>29</age>
+  </Gilligan>
+</root>

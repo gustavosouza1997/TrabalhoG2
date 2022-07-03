@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annabela"
+  lastname="Freddi"
+  city="Miri"
+  country="Barbados"
+  firstname2="Lelah"
+  lastname2="Olympium"
+  email="Lelah.Olympium@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>80.818</random_float>
+  <bool>false</bool>
+  <date>1983-01-29</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Heida</elt><elt>Claudina</elt><elt>Lorie</elt><elt>Valli</elt><elt>Anallese</elt>  
+  <Lelah>
+    <age>46</age>
+  </Lelah>
+</root>

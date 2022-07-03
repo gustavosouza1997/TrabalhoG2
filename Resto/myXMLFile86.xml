@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aili"
+  lastname="Kosey"
+  city="Majuro"
+  country="Guyana"
+  firstname2="Hyacinthe"
+  lastname2="Richers"
+  email="Hyacinthe.Richers@yopmail.com"
+  />
+  <random>7</random>
+  <random_float>71.367</random_float>
+  <bool>true</bool>
+  <date>1998-04-14</date>
+  <regEx>hellooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Glynnis</elt><elt>Ottilie</elt><elt>Zsa Zsa</elt><elt>Lonnie</elt><elt>Clary</elt>  
+  <Hyacinthe>
+    <age>81</age>
+  </Hyacinthe>
+</root>

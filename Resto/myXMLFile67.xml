@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Moyna"
+  lastname="Corabella"
+  city="Nukus"
+  country="Mongolia"
+  firstname2="Jaclyn"
+  lastname2="Arquit"
+  email="Jaclyn.Arquit@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>2.708</random_float>
+  <bool>false</bool>
+  <date>1993-09-06</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Feliza</elt><elt>Genevra</elt><elt>Genovera</elt><elt>Monika</elt><elt>Ardys</elt>  
+  <Jaclyn>
+    <age>37</age>
+  </Jaclyn>
+</root>

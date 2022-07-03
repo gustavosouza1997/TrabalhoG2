@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rosaline"
+  lastname="Swigart"
+  city="Skopje"
+  country="Benin"
+  firstname2="Berget"
+  lastname2="Peg"
+  email="Berget.Peg@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>58.164</random_float>
+  <bool>true</bool>
+  <date>1996-09-26</date>
+  <regEx>helloooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Dotty</elt><elt>Lenna</elt><elt>Mildrid</elt><elt>Celisse</elt><elt>Sibella</elt>  
+  <Berget>
+    <age>32</age>
+  </Berget>
+</root>

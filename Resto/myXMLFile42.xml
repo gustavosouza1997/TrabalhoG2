@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Alie"
+  lastname="Gaulin"
+  city="Samara"
+  country="Korea, Democratic People"S Republic of"
+  firstname2="Latisha"
+  lastname2="Taam"
+  email="Latisha.Taam@yopmail.com"
+  />
+  <random>48</random>
+  <random_float>58.082</random_float>
+  <bool>true</bool>
+  <date>1983-01-01</date>
+  <regEx>hellooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Elyssa</elt><elt>Tomasina</elt><elt>Renie</elt><elt>Edee</elt><elt>Bettine</elt>  
+  <Latisha>
+    <age>94</age>
+  </Latisha>
+</root>

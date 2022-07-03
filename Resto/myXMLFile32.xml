@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Miquela"
+  lastname="Millda"
+  city="Hangzhou"
+  country="Heard Island and Mcdonald Islands"
+  firstname2="Viki"
+  lastname2="Bivins"
+  email="Viki.Bivins@yopmail.com"
+  />
+  <random>78</random>
+  <random_float>78.503</random_float>
+  <bool>false</bool>
+  <date>1985-02-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Edee</elt><elt>Dale</elt><elt>Annabela</elt><elt>Caritta</elt><elt>Lenna</elt>  
+  <Viki>
+    <age>96</age>
+  </Viki>
+</root>

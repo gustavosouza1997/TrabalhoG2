@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jordan"
+  lastname="Ferino"
+  city="Luanda"
+  country="Argentina"
+  firstname2="Brietta"
+  lastname2="Robertson"
+  email="Brietta.Robertson@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>42.943</random_float>
+  <bool>true</bool>
+  <date>1998-07-05</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Kristina</elt><elt>Bobbi</elt><elt>Marleah</elt><elt>Chastity</elt><elt>Catrina</elt>  
+  <Brietta>
+    <age>53</age>
+  </Brietta>
+</root>

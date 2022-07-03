@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Molli"
+  lastname="Glovsky"
+  city="Chicago"
+  country="Malaysia"
+  firstname2="Briney"
+  lastname2="Lanita"
+  email="Briney.Lanita@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>75.403</random_float>
+  <bool>false</bool>
+  <date>1984-11-30</date>
+  <regEx>hellooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Averyl</elt><elt>Teddie</elt><elt>Gerianna</elt><elt>Malina</elt><elt>Atlanta</elt>  
+  <Briney>
+    <age>32</age>
+  </Briney>
+</root>

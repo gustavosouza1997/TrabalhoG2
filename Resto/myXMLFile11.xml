@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Andeee"
+  lastname="Philoo"
+  city="Bratislava"
+  country="Lebanon"
+  firstname2="Gwenneth"
+  lastname2="Pierette"
+  email="Gwenneth.Pierette@yopmail.com"
+  />
+  <random>29</random>
+  <random_float>17.204</random_float>
+  <bool>false</bool>
+  <date>1987-05-28</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Ginnie</elt><elt>Fredericka</elt><elt>Lesly</elt><elt>Bernie</elt><elt>Abbie</elt>  
+  <Gwenneth>
+    <age>29</age>
+  </Gwenneth>
+</root>

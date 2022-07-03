@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ardys"
+  lastname="Vivle"
+  city="Abu Dhabi"
+  country="Fiji"
+  firstname2="Bettine"
+  lastname2="Meli"
+  email="Bettine.Meli@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>85.841</random_float>
+  <bool>false</bool>
+  <date>1984-03-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Barbara</elt><elt>Esmeralda</elt><elt>Camile</elt><elt>Gusella</elt><elt>Dode</elt>  
+  <Bettine>
+    <age>69</age>
+  </Bettine>
+</root>

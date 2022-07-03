@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Helena"
+  lastname="Hamil"
+  city="Yaren District"
+  country="Russian Federation"
+  firstname2="Aigneis"
+  lastname2="Sherrie"
+  email="Aigneis.Sherrie@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>2.885</random_float>
+  <bool>false</bool>
+  <date>1985-09-27</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Wanda</elt><elt>Kaja</elt><elt>Vita</elt><elt>Vere</elt><elt>Jaclyn</elt>  
+  <Aigneis>
+    <age>29</age>
+  </Aigneis>
+</root>

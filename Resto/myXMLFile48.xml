@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Giustina"
+  lastname="Raseda"
+  city="Copenhagen"
+  country="AndorrA"
+  firstname2="Andree"
+  lastname2="Burnside"
+  email="Andree.Burnside@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>81.67</random_float>
+  <bool>true</bool>
+  <date>1986-01-14</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Bill</elt><elt>Lynea</elt><elt>Mara</elt><elt>Cathie</elt><elt>Elfreda</elt>  
+  <Andree>
+    <age>66</age>
+  </Andree>
+</root>

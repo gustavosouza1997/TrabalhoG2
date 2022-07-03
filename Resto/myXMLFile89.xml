@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Susette"
+  lastname="Pearse"
+  city="Geneva"
+  country="Kiribati"
+  firstname2="Ketti"
+  lastname2="Christal"
+  email="Ketti.Christal@yopmail.com"
+  />
+  <random>25</random>
+  <random_float>93.537</random_float>
+  <bool>false</bool>
+  <date>1991-01-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Correy</elt><elt>Veda</elt><elt>Tarra</elt><elt>Lolita</elt><elt>Abbie</elt>  
+  <Ketti>
+    <age>76</age>
+  </Ketti>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sandie"
+  lastname="Telfer"
+  city="Johannesburg"
+  country="Cook Islands"
+  firstname2="Devina"
+  lastname2="Larochelle"
+  email="Devina.Larochelle@yopmail.com"
+  />
+  <random>66</random>
+  <random_float>63.891</random_float>
+  <bool>false</bool>
+  <date>1995-03-07</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Tina</elt><elt>Karena</elt><elt>Kittie</elt><elt>Emma</elt><elt>Corene</elt>  
+  <Devina>
+    <age>94</age>
+  </Devina>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Merry"
+  lastname="Tjon"
+  city="Ushuaia"
+  country="Kyrgyzstan"
+  firstname2="Winny"
+  lastname2="Schlosser"
+  email="Winny.Schlosser@yopmail.com"
+  />
+  <random>58</random>
+  <random_float>18.62</random_float>
+  <bool>false</bool>
+  <date>1997-07-29</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Calla</elt><elt>Sean</elt><elt>Berget</elt><elt>Consuela</elt><elt>Bernie</elt>  
+  <Winny>
+    <age>69</age>
+  </Winny>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Emmey"
+  lastname="Sholley"
+  city="Ndola"
+  country="Barbados"
+  firstname2="Adelle"
+  lastname2="Goode"
+  email="Adelle.Goode@yopmail.com"
+  />
+  <random>89</random>
+  <random_float>83.421</random_float>
+  <bool>true</bool>
+  <date>1991-12-08</date>
+  <regEx>hellooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Joy</elt><elt>Selma</elt><elt>Merry</elt><elt>Reeba</elt><elt>Fernande</elt>  
+  <Adelle>
+    <age>24</age>
+  </Adelle>
+</root>

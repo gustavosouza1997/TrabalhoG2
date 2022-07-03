@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Nita"
+  lastname="Randene"
+  city="San Francisco"
+  country="Nauru"
+  firstname2="Linzy"
+  lastname2="Barney"
+  email="Linzy.Barney@yopmail.com"
+  />
+  <random>44</random>
+  <random_float>12.271</random_float>
+  <bool>true</bool>
+  <date>1996-12-19</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Nanete</elt><elt>Emilia</elt><elt>Jere</elt><elt>Mahalia</elt><elt>Daune</elt>  
+  <Linzy>
+    <age>21</age>
+  </Linzy>
+</root>

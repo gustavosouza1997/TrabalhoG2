@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Cathie"
+  lastname="Natalia"
+  city="Kuching"
+  country="Cocos (Keeling) Islands"
+  firstname2="Cyb"
+  lastname2="Thomasina"
+  email="Cyb.Thomasina@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>9.864</random_float>
+  <bool>false</bool>
+  <date>1983-12-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lorie</elt><elt>Hallie</elt><elt>Gilligan</elt><elt>Natka</elt><elt>Ginnie</elt>  
+  <Cyb>
+    <age>78</age>
+  </Cyb>
+</root>

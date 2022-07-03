@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gusty"
+  lastname="Maribeth"
+  city="Adamstown"
+  country="Moldova, Republic of"
+  firstname2="Ezmeralda"
+  lastname2="Rillings"
+  email="Ezmeralda.Rillings@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>61.528</random_float>
+  <bool>true</bool>
+  <date>1992-09-30</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Lory</elt><elt>Bernie</elt><elt>Elfreda</elt><elt>Camile</elt><elt>Micheline</elt>  
+  <Ezmeralda>
+    <age>69</age>
+  </Ezmeralda>
+</root>

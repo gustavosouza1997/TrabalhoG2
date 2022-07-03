@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Magdalena"
+  lastname="Burnside"
+  city="Dededo"
+  country="Singapore"
+  firstname2="Siana"
+  lastname2="Goddard"
+  email="Siana.Goddard@yopmail.com"
+  />
+  <random>24</random>
+  <random_float>26.227</random_float>
+  <bool>false</bool>
+  <date>1995-06-02</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Carolina</elt><elt>Violet</elt><elt>Steffane</elt><elt>Paola</elt><elt>Nyssa</elt>  
+  <Siana>
+    <age>35</age>
+  </Siana>
+</root>

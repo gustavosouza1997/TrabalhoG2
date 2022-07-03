@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Annice"
+  lastname="Blase"
+  city="Melbourne"
+  country="Chad"
+  firstname2="Tamqrah"
+  lastname2="Laverne"
+  email="Tamqrah.Laverne@yopmail.com"
+  />
+  <random>80</random>
+  <random_float>91.438</random_float>
+  <bool>true</bool>
+  <date>1992-06-10</date>
+  <regEx>helloooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Carmencita</elt><elt>Trudie</elt><elt>Louella</elt><elt>Jemie</elt><elt>Corina</elt>  
+  <Tamqrah>
+    <age>39</age>
+  </Tamqrah>
+</root>

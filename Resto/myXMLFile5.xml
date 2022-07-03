@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jordan"
+  lastname="Faso"
+  city="Jayapura"
+  country="Dominican Republic"
+  firstname2="Concettina"
+  lastname2="Weinreb"
+  email="Concettina.Weinreb@yopmail.com"
+  />
+  <random>99</random>
+  <random_float>56.71</random_float>
+  <bool>true</bool>
+  <date>1999-03-17</date>
+  <regEx>helloooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Susette</elt><elt>Lanna</elt><elt>Carol-Jean</elt><elt>Gilda</elt><elt>Andeee</elt>  
+  <Concettina>
+    <age>18</age>
+  </Concettina>
+</root>

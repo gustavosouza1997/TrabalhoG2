@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Etta"
+  lastname="Shaddock"
+  city="Medina"
+  country="Faroe Islands"
+  firstname2="Rochette"
+  lastname2="Abbot"
+  email="Rochette.Abbot@yopmail.com"
+  />
+  <random>43</random>
+  <random_float>48.576</random_float>
+  <bool>true</bool>
+  <date>1983-09-17</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Alyda</elt><elt>Livvyy</elt><elt>Helena</elt><elt>Darlleen</elt><elt>Oralee</elt>  
+  <Rochette>
+    <age>48</age>
+  </Rochette>
+</root>

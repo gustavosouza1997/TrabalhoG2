@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Korrie"
+  lastname="Armanda"
+  city="Ushuaia"
+  country="Congo, The Democratic Republic of the"
+  firstname2="Glynnis"
+  lastname2="Emerson"
+  email="Glynnis.Emerson@yopmail.com"
+  />
+  <random>100</random>
+  <random_float>76.973</random_float>
+  <bool>false</bool>
+  <date>1998-08-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Rubie</elt><elt>Tami</elt><elt>Elena</elt><elt>Xylina</elt><elt>Louella</elt>  
+  <Glynnis>
+    <age>21</age>
+  </Glynnis>
+</root>

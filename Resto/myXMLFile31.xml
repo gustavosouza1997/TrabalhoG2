@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ekaterina"
+  lastname="Huggins"
+  city="Palembang"
+  country="Cameroon"
+  firstname2="Sherrie"
+  lastname2="Ashely"
+  email="Sherrie.Ashely@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>26.536</random_float>
+  <bool>false</bool>
+  <date>1998-11-06</date>
+  <regEx>helloooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Jolyn</elt><elt>Giustina</elt><elt>Cherilyn</elt><elt>Teriann</elt><elt>Meg</elt>  
+  <Sherrie>
+    <age>80</age>
+  </Sherrie>
+</root>

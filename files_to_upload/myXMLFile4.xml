@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Demetris"
+  lastname="Merat"
+  city="Dubai"
+  country="Palau"
+  firstname2="Zsa Zsa"
+  lastname2="Trace"
+  email="Zsa Zsa.Trace@yopmail.com"
+  />
+  <random>63</random>
+  <random_float>49.746</random_float>
+  <bool>false</bool>
+  <date>1997-06-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Luci</elt><elt>Ilse</elt><elt>Lilith</elt><elt>Cristine</elt><elt>Rosanne</elt>  
+  <Zsa>
+    <age>59</age>
+  </Zsa>
+</root>

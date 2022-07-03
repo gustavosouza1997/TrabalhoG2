@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Morganica"
+  lastname="Gregrory"
+  city="Changchun"
+  country="Netherlands Antilles"
+  firstname2="Codie"
+  lastname2="Tyson"
+  email="Codie.Tyson@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>45.659</random_float>
+  <bool>false</bool>
+  <date>1983-05-09</date>
+  <regEx>hellooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Deloria</elt><elt>Jaclyn</elt><elt>Lesly</elt><elt>Rosaline</elt><elt>Henriette</elt>  
+  <Codie>
+    <age>72</age>
+  </Codie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Merrie"
+  lastname="Dyche"
+  city="Winnipeg"
+  country="Colombia"
+  firstname2="Shel"
+  lastname2="Ackerley"
+  email="Shel.Ackerley@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>59.999</random_float>
+  <bool>false</bool>
+  <date>1982-04-13</date>
+  <regEx>hellooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Caritta</elt><elt>Bobinette</elt><elt>Diena</elt><elt>Sonni</elt><elt>Nataline</elt>  
+  <Shel>
+    <age>36</age>
+  </Shel>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Vita"
+  lastname="Ulphia"
+  city="Valparaíso"
+  country="Cyprus"
+  firstname2="Ardys"
+  lastname2="Kiyoshi"
+  email="Ardys.Kiyoshi@yopmail.com"
+  />
+  <random>27</random>
+  <random_float>44.02</random_float>
+  <bool>false</bool>
+  <date>1995-11-12</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Marinna</elt><elt>Wilma</elt><elt>Lacie</elt><elt>Emma</elt><elt>Meriel</elt>  
+  <Ardys>
+    <age>88</age>
+  </Ardys>
+</root>

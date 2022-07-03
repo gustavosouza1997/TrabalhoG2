@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Peri"
+  lastname="Montgomery"
+  city="Chihuahua"
+  country="China"
+  firstname2="Constance"
+  lastname2="Oster"
+  email="Constance.Oster@yopmail.com"
+  />
+  <random>68</random>
+  <random_float>58.941</random_float>
+  <bool>true</bool>
+  <date>1981-12-30</date>
+  <regEx>helloooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Beth</elt><elt>Carree</elt><elt>Quintina</elt><elt>Jere</elt><elt>Flo</elt>  
+  <Constance>
+    <age>97</age>
+  </Constance>
+</root>

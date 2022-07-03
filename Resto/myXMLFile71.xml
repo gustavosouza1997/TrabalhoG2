@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hannis"
+  lastname="Whittaker"
+  city="Khartoum"
+  country="Marshall Islands"
+  firstname2="Dennie"
+  lastname2="Dorcy"
+  email="Dennie.Dorcy@yopmail.com"
+  />
+  <random>98</random>
+  <random_float>8.186</random_float>
+  <bool>false</bool>
+  <date>1995-10-08</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Annabela</elt><elt>Darci</elt><elt>Sashenka</elt><elt>Nessie</elt><elt>Ruthe</elt>  
+  <Dennie>
+    <age>25</age>
+  </Dennie>
+</root>

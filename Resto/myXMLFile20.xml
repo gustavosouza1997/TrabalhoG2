@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Noelle"
+  lastname="Connelly"
+  city="Luanda"
+  country="Åland Islands"
+  firstname2="Orelia"
+  lastname2="Devlen"
+  email="Orelia.Devlen@yopmail.com"
+  />
+  <random>94</random>
+  <random_float>48.679</random_float>
+  <bool>false</bool>
+  <date>1993-02-25</date>
+  <regEx>helloooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Agnese</elt><elt>Sabina</elt><elt>Orelia</elt><elt>Marsiella</elt><elt>Kimberley</elt>  
+  <Orelia>
+    <age>36</age>
+  </Orelia>
+</root>

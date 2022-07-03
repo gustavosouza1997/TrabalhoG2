@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Marjie"
+  lastname="Zenas"
+  city="Davao City"
+  country="Tunisia"
+  firstname2="Marti"
+  lastname2="Torray"
+  email="Marti.Torray@yopmail.com"
+  />
+  <random>39</random>
+  <random_float>67.872</random_float>
+  <bool>true</bool>
+  <date>1997-01-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Cordi</elt><elt>Alie</elt><elt>Emelina</elt><elt>Deedee</elt><elt>Yetty</elt>  
+  <Marti>
+    <age>76</age>
+  </Marti>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Hayley"
+  lastname="Atonsah"
+  city="Bursa"
+  country="Northern Mariana Islands"
+  firstname2="Lexine"
+  lastname2="Bronk"
+  email="Lexine.Bronk@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>22.029</random_float>
+  <bool>false</bool>
+  <date>1987-06-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Georgina</elt><elt>Raquela</elt><elt>Wilma</elt><elt>Lisette</elt><elt>Blake</elt>  
+  <Lexine>
+    <age>32</age>
+  </Lexine>
+</root>

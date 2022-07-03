@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elka"
+  lastname="Riva"
+  city="Panama City"
+  country="Central African Republic"
+  firstname2="Ilse"
+  lastname2="Miru"
+  email="Ilse.Miru@yopmail.com"
+  />
+  <random>65</random>
+  <random_float>45.484</random_float>
+  <bool>true</bool>
+  <date>1985-10-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Belva</elt><elt>Melodie</elt><elt>Hildegaard</elt><elt>Dari</elt><elt>Emma</elt>  
+  <Ilse>
+    <age>53</age>
+  </Ilse>
+</root>

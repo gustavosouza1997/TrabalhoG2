@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Tierney"
+  lastname="Brittani"
+  city="Kingston"
+  country="Dominican Republic"
+  firstname2="Andree"
+  lastname2="Germann"
+  email="Andree.Germann@yopmail.com"
+  />
+  <random>90</random>
+  <random_float>95.869</random_float>
+  <bool>true</bool>
+  <date>1999-08-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ana</elt><elt>Nicoli</elt><elt>Ann-Marie</elt><elt>Andree</elt><elt>Rayna</elt>  
+  <Andree>
+    <age>81</age>
+  </Andree>
+</root>

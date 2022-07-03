@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ginnie"
+  lastname="Toor"
+  city="Córdoba"
+  country="Montserrat"
+  firstname2="Margalo"
+  lastname2="Jeanne"
+  email="Margalo.Jeanne@yopmail.com"
+  />
+  <random>22</random>
+  <random_float>58.238</random_float>
+  <bool>false</bool>
+  <date>1982-10-26</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Darlleen</elt><elt>Mamie</elt><elt>Minne</elt><elt>Farrah</elt><elt>Courtnay</elt>  
+  <Margalo>
+    <age>31</age>
+  </Margalo>
+</root>

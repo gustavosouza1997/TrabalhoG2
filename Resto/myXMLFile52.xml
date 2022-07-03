@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Chloris"
+  lastname="Kannry"
+  city="Munich"
+  country="Bahamas"
+  firstname2="Ann-Marie"
+  lastname2="Gower"
+  email="Ann-Marie.Gower@yopmail.com"
+  />
+  <random>38</random>
+  <random_float>29.915</random_float>
+  <bool>false</bool>
+  <date>1990-08-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Annice</elt><elt>Atlanta</elt><elt>Ilse</elt><elt>Rubie</elt><elt>Suzette</elt>  
+  <Ann-Marie>
+    <age>37</age>
+  </Ann-Marie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Bobinette"
+  lastname="Nahum"
+  city="Majuro"
+  country="Cambodia"
+  firstname2="Fina"
+  lastname2="Kravits"
+  email="Fina.Kravits@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>12.424</random_float>
+  <bool>false</bool>
+  <date>1992-04-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>online</enum>
+  <elt>Lilith</elt><elt>Veda</elt><elt>Glenda</elt><elt>Kathy</elt><elt>Vinita</elt>  
+  <Fina>
+    <age>85</age>
+  </Fina>
+</root>

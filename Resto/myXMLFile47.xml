@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Johna"
+  lastname="Curren"
+  city="Gold Coast"
+  country="Cayman Islands"
+  firstname2="Kara-Lynn"
+  lastname2="Rebecka"
+  email="Kara-Lynn.Rebecka@yopmail.com"
+  />
+  <random>12</random>
+  <random_float>93.218</random_float>
+  <bool>true</bool>
+  <date>1999-06-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Cissiee</elt><elt>Jolyn</elt><elt>Berget</elt><elt>Caressa</elt><elt>Raina</elt>  
+  <Kara-Lynn>
+    <age>81</age>
+  </Kara-Lynn>
+</root>

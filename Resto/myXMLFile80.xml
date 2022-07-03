@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ingrid"
+  lastname="Jillane"
+  city="Tirana"
+  country="United States"
+  firstname2="Margette"
+  lastname2="Killigrew"
+  email="Margette.Killigrew@yopmail.com"
+  />
+  <random>88</random>
+  <random_float>76.126</random_float>
+  <bool>false</bool>
+  <date>1993-06-17</date>
+  <regEx>helloooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Deedee</elt><elt>Edith</elt><elt>Tersina</elt><elt>Charlena</elt><elt>Sonni</elt>  
+  <Margette>
+    <age>94</age>
+  </Margette>
+</root>

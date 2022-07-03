@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Neila"
+  lastname="Bryna"
+  city="Munich"
+  country="Aruba"
+  firstname2="Daune"
+  lastname2="Fleeta"
+  email="Daune.Fleeta@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>77.827</random_float>
+  <bool>true</bool>
+  <date>1995-03-22</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Larine</elt><elt>Correy</elt><elt>Cristine</elt><elt>Codie</elt><elt>Marleah</elt>  
+  <Daune>
+    <age>51</age>
+  </Daune>
+</root>

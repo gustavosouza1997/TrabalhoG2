@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Kore"
+  lastname="Breed"
+  city="Serekunda"
+  country="Eritrea"
+  firstname2="Kimmy"
+  lastname2="Allina"
+  email="Kimmy.Allina@yopmail.com"
+  />
+  <random>83</random>
+  <random_float>65.615</random_float>
+  <bool>true</bool>
+  <date>1994-09-23</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Marylou</elt><elt>Cecile</elt><elt>Shel</elt><elt>Farrah</elt><elt>Lucy</elt>  
+  <Kimmy>
+    <age>81</age>
+  </Kimmy>
+</root>

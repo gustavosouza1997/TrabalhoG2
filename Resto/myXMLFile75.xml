@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Sadie"
+  lastname="Nadia"
+  city="Pristina"
+  country="Holy See (Vatican City State)"
+  firstname2="Consuela"
+  lastname2="Oneida"
+  email="Consuela.Oneida@yopmail.com"
+  />
+  <random>10</random>
+  <random_float>38.604</random_float>
+  <bool>false</bool>
+  <date>1998-10-28</date>
+  <regEx>hellooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Celisse</elt><elt>Norine</elt><elt>Deloria</elt><elt>Ayn</elt><elt>Althea</elt>  
+  <Consuela>
+    <age>98</age>
+  </Consuela>
+</root>

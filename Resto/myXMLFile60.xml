@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Romona"
+  lastname="Grayce"
+  city="South Tarawa"
+  country="Saint Kitts and Nevis"
+  firstname2="Dyann"
+  lastname2="Lilas"
+  email="Dyann.Lilas@yopmail.com"
+  />
+  <random>20</random>
+  <random_float>3.696</random_float>
+  <bool>false</bool>
+  <date>1996-01-23</date>
+  <regEx>hellooo world</regEx>
+  <enum>generator</enum>
+  <elt>Rosene</elt><elt>Starla</elt><elt>Melina</elt><elt>Verla</elt><elt>Sheree</elt>  
+  <Dyann>
+    <age>57</age>
+  </Dyann>
+</root>

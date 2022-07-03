@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Binny"
+  lastname="Wandie"
+  city="Sofia"
+  country="India"
+  firstname2="Brandise"
+  lastname2="Hanleigh"
+  email="Brandise.Hanleigh@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>22.709</random_float>
+  <bool>false</bool>
+  <date>1985-07-14</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Marylou</elt><elt>Amelia</elt><elt>Konstance</elt><elt>Inga</elt><elt>Harmonia</elt>  
+  <Brandise>
+    <age>72</age>
+  </Brandise>
+</root>

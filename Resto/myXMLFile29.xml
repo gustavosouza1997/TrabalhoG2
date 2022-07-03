@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ann-Marie"
+  lastname="Devlen"
+  city="San Juan"
+  country="Singapore"
+  firstname2="Aaren"
+  lastname2="Margret"
+  email="Aaren.Margret@yopmail.com"
+  />
+  <random>13</random>
+  <random_float>18.822</random_float>
+  <bool>false</bool>
+  <date>1988-02-02</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Phedra</elt><elt>Amii</elt><elt>Vere</elt><elt>Monika</elt><elt>Isa</elt>  
+  <Aaren>
+    <age>51</age>
+  </Aaren>
+</root>

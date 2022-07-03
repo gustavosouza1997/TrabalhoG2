@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rani"
+  lastname="Forrer"
+  city="Iqaluit"
+  country="Saudi Arabia"
+  firstname2="Tatiania"
+  lastname2="Diann"
+  email="Tatiania.Diann@yopmail.com"
+  />
+  <random>95</random>
+  <random_float>44.335</random_float>
+  <bool>false</bool>
+  <date>1994-10-24</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Halette</elt><elt>Ninnetta</elt><elt>Margalo</elt><elt>Genovera</elt><elt>Anestassia</elt>  
+  <Tatiania>
+    <age>83</age>
+  </Tatiania>
+</root>

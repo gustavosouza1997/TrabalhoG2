@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Gui"
+  lastname="Wareing"
+  city="Las Palmas de Gran Canaria"
+  country="Spain"
+  firstname2="Lanna"
+  lastname2="Chabot"
+  email="Lanna.Chabot@yopmail.com"
+  />
+  <random>46</random>
+  <random_float>33.001</random_float>
+  <bool>false</bool>
+  <date>1983-07-12</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Aeriela</elt><elt>Violet</elt><elt>Aigneis</elt><elt>Elmira</elt><elt>Consuela</elt>  
+  <Lanna>
+    <age>82</age>
+  </Lanna>
+</root>

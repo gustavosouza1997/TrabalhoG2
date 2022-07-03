@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Mignon"
+  lastname="Martguerita"
+  city="Belmopan"
+  country="Saudi Arabia"
+  firstname2="Cordi"
+  lastname2="Danby"
+  email="Cordi.Danby@yopmail.com"
+  />
+  <random>21</random>
+  <random_float>56.769</random_float>
+  <bool>true</bool>
+  <date>1995-03-18</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Selia</elt><elt>Sarette</elt><elt>Cissiee</elt><elt>Ermengarde</elt><elt>Alexine</elt>  
+  <Cordi>
+    <age>80</age>
+  </Cordi>
+</root>

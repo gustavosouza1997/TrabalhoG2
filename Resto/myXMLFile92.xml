@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Winifred"
+  lastname="Sikorski"
+  city="Mexicali"
+  country="Zimbabwe"
+  firstname2="Kamilah"
+  lastname2="Ingra"
+  email="Kamilah.Ingra@yopmail.com"
+  />
+  <random>59</random>
+  <random_float>43.705</random_float>
+  <bool>true</bool>
+  <date>1985-04-16</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Theodora</elt><elt>Cyndie</elt><elt>Lynde</elt><elt>Ivett</elt><elt>Glynnis</elt>  
+  <Kamilah>
+    <age>66</age>
+  </Kamilah>
+</root>

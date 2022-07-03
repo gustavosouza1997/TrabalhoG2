@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Jacenta"
+  lastname="Telfer"
+  city="Santa Cruz de Tenerife"
+  country="Chad"
+  firstname2="Joelly"
+  lastname2="Glovsky"
+  email="Joelly.Glovsky@yopmail.com"
+  />
+  <random>35</random>
+  <random_float>72.528</random_float>
+  <bool>false</bool>
+  <date>1994-05-06</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Nikki</elt><elt>Claresta</elt><elt>Danny</elt><elt>Ekaterina</elt><elt>Flo</elt>  
+  <Joelly>
+    <age>80</age>
+  </Joelly>
+</root>

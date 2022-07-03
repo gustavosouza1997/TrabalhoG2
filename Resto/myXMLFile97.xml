@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Christy"
+  lastname="Rebecka"
+  city="Shillong"
+  country="Central African Republic"
+  firstname2="Dawn"
+  lastname2="Isidore"
+  email="Dawn.Isidore@yopmail.com"
+  />
+  <random>57</random>
+  <random_float>19.64</random_float>
+  <bool>false</bool>
+  <date>1985-12-20</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Larine</elt><elt>Elsie</elt><elt>Alameda</elt><elt>Norine</elt><elt>Sidoney</elt>  
+  <Dawn>
+    <age>62</age>
+  </Dawn>
+</root>

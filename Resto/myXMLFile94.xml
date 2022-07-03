@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Elora"
+  lastname="Gunn"
+  city="Sydney"
+  country="Cambodia"
+  firstname2="Dawn"
+  lastname2="Dunkin"
+  email="Dawn.Dunkin@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>94.855</random_float>
+  <bool>false</bool>
+  <date>1986-02-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Gilda</elt><elt>Deane</elt><elt>Fredericka</elt><elt>Lexine</elt><elt>Riannon</elt>  
+  <Dawn>
+    <age>100</age>
+  </Dawn>
+</root>

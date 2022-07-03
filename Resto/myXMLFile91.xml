@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Dennie"
+  lastname="Briney"
+  city="Ilhéus"
+  country="Lao People"S Democratic Republic"
+  firstname2="Lynnea"
+  lastname2="Stover"
+  email="Lynnea.Stover@yopmail.com"
+  />
+  <random>34</random>
+  <random_float>87.949</random_float>
+  <bool>false</bool>
+  <date>1997-11-15</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Shell</elt><elt>Dianemarie</elt><elt>Jany</elt><elt>Flory</elt><elt>Vita</elt>  
+  <Lynnea>
+    <age>93</age>
+  </Lynnea>
+</root>

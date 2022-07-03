@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Desirae"
+  lastname="Ricarda"
+  city="Invercargill"
+  country="Uganda"
+  firstname2="Rosanne"
+  lastname2="Berl"
+  email="Rosanne.Berl@yopmail.com"
+  />
+  <random>71</random>
+  <random_float>66.57</random_float>
+  <bool>true</bool>
+  <date>1985-03-13</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Rosanne</elt><elt>Orsola</elt><elt>Moyna</elt><elt>Carmela</elt><elt>Dale</elt>  
+  <Rosanne>
+    <age>74</age>
+  </Rosanne>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Christy"
+  lastname="Allare"
+  city="Cannes"
+  country="Tanzania, United Republic of"
+  firstname2="Celestyna"
+  lastname2="Marden"
+  email="Celestyna.Marden@yopmail.com"
+  />
+  <random>93</random>
+  <random_float>48.017</random_float>
+  <bool>true</bool>
+  <date>1987-09-09</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Vonny</elt><elt>Mathilda</elt><elt>Raquela</elt><elt>Gale</elt><elt>Sean</elt>  
+  <Celestyna>
+    <age>98</age>
+  </Celestyna>
+</root>

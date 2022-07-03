@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Fernande"
+  lastname="Dichy"
+  city="Port Hedland"
+  country="Suriname"
+  firstname2="Lizzie"
+  lastname2="Kendrick"
+  email="Lizzie.Kendrick@yopmail.com"
+  />
+  <random>1</random>
+  <random_float>90.899</random_float>
+  <bool>false</bool>
+  <date>1984-08-02</date>
+  <regEx>hello to you</regEx>
+  <enum>xml</enum>
+  <elt>Gilligan</elt><elt>Gratia</elt><elt>Sonni</elt><elt>Codie</elt><elt>Kathi</elt>  
+  <Lizzie>
+    <age>34</age>
+  </Lizzie>
+</root>

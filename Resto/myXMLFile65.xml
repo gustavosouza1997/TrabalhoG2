@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Josephine"
+  lastname="Percy"
+  city="Bujumbura"
+  country="Equatorial Guinea"
+  firstname2="Rochette"
+  lastname2="Orlene"
+  email="Rochette.Orlene@yopmail.com"
+  />
+  <random>47</random>
+  <random_float>57.511</random_float>
+  <bool>false</bool>
+  <date>1990-10-30</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Selma</elt><elt>Tamqrah</elt><elt>Marleah</elt><elt>Ellette</elt><elt>Antonietta</elt>  
+  <Rochette>
+    <age>42</age>
+  </Rochette>
+</root>

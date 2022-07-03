@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Shirlee"
+  lastname="Aida"
+  city="Adamstown"
+  country="Mauritania"
+  firstname2="Rochette"
+  lastname2="Haldas"
+  email="Rochette.Haldas@yopmail.com"
+  />
+  <random>86</random>
+  <random_float>41.832</random_float>
+  <bool>false</bool>
+  <date>1987-04-15</date>
+  <regEx>helloooooooooo world</regEx>
+  <enum>xml</enum>
+  <elt>Ardenia</elt><elt>Lorie</elt><elt>Belva</elt><elt>Dacia</elt><elt>Kore</elt>  
+  <Rochette>
+    <age>43</age>
+  </Rochette>
+</root>

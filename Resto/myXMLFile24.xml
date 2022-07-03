@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Clementine"
+  lastname="Delacourt"
+  city="Albuquerque"
+  country="Maldives"
+  firstname2="Lonnie"
+  lastname2="Tayib"
+  email="Lonnie.Tayib@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>39.839</random_float>
+  <bool>true</bool>
+  <date>1995-11-15</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Bibby</elt><elt>Stacey</elt><elt>Eve</elt><elt>Alleen</elt><elt>Blondelle</elt>  
+  <Lonnie>
+    <age>48</age>
+  </Lonnie>
+</root>

@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Corry"
+  lastname="Borrell"
+  city="Iquitos"
+  country="Belize"
+  firstname2="Ariela"
+  lastname2="Jeanne"
+  email="Ariela.Jeanne@yopmail.com"
+  />
+  <random>53</random>
+  <random_float>12.615</random_float>
+  <bool>false</bool>
+  <date>1983-07-21</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Dacia</elt><elt>Catharine</elt><elt>Dianemarie</elt><elt>Millie</elt><elt>Myriam</elt>  
+  <Ariela>
+    <age>81</age>
+  </Ariela>
+</root>

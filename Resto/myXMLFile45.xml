@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Merle"
+  lastname="Payson"
+  city="Bangalore"
+  country="Isle of Man"
+  firstname2="Atlanta"
+  lastname2="Philipp"
+  email="Atlanta.Philipp@yopmail.com"
+  />
+  <random>23</random>
+  <random_float>64.086</random_float>
+  <bool>true</bool>
+  <date>1989-06-03</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>generator</enum>
+  <elt>Feliza</elt><elt>Malina</elt><elt>Josephine</elt><elt>Elsie</elt><elt>Brena</elt>  
+  <Atlanta>
+    <age>99</age>
+  </Atlanta>
+</root>

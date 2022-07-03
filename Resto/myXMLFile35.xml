@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Reeba"
+  lastname="Yusuk"
+  city="Baghdad"
+  country="Tanzania, United Republic of"
+  firstname2="Myriam"
+  lastname2="Skell"
+  email="Myriam.Skell@yopmail.com"
+  />
+  <random>92</random>
+  <random_float>77.655</random_float>
+  <bool>true</bool>
+  <date>1980-11-16</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>generator</enum>
+  <elt>Cherrita</elt><elt>Allis</elt><elt>Maryellen</elt><elt>Wilma</elt><elt>Marinna</elt>  
+  <Myriam>
+    <age>24</age>
+  </Myriam>
+</root>

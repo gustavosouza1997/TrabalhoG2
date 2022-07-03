@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Aryn"
+  lastname="Dorcy"
+  city="Minneapolis"
+  country="Jordan"
+  firstname2="Pamella"
+  lastname2="Ries"
+  email="Pamella.Ries@yopmail.com"
+  />
+  <random>30</random>
+  <random_float>31.2</random_float>
+  <bool>false</bool>
+  <date>1997-06-10</date>
+  <regEx>hellooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Elbertina</elt><elt>Christal</elt><elt>Ericka</elt><elt>Taffy</elt><elt>Meriel</elt>  
+  <Pamella>
+    <age>53</age>
+  </Pamella>
+</root>

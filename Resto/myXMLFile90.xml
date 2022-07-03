@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Rosabelle"
+  lastname="Eiser"
+  city="Alor Star"
+  country="United States Minor Outlying Islands"
+  firstname2="Micheline"
+  lastname2="Chesna"
+  email="Micheline.Chesna@yopmail.com"
+  />
+  <random>52</random>
+  <random_float>10.748</random_float>
+  <bool>false</bool>
+  <date>1982-04-13</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Tracey</elt><elt>Monika</elt><elt>Audrie</elt><elt>Celene</elt><elt>Gabriellia</elt>  
+  <Micheline>
+    <age>42</age>
+  </Micheline>
+</root>

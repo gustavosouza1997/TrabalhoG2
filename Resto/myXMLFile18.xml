@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Raquela"
+  lastname="Danby"
+  city="Calgary"
+  country="Heard Island and Mcdonald Islands"
+  firstname2="Romona"
+  lastname2="Mitzi"
+  email="Romona.Mitzi@yopmail.com"
+  />
+  <random>41</random>
+  <random_float>29.482</random_float>
+  <bool>false</bool>
+  <date>1983-04-04</date>
+  <regEx>hellooooooooooooooooooooooooooooooooooooooooooooooooooo to you</regEx>
+  <enum>xml</enum>
+  <elt>Gale</elt><elt>Coral</elt><elt>Alyda</elt><elt>Harrietta</elt><elt>Dolli</elt>  
+  <Romona>
+    <age>88</age>
+  </Romona>
+</root>
